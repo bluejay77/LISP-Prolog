@@ -10,3 +10,6 @@ The Norvig Paradigms of A. I. Programming LISP based Prolog.
 
 The Uppsala LM-Prolog is not any more relevant.
 
+The Steven Tanimoto textbook small Prolog
+
+
